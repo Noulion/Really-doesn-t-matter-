@@ -17,5 +17,5 @@ def counter():
 
 
 if text == text:
-    print(" You get 5 tries \n")
+    print(colored" You get 5 tries \n", 'yellow'))
     counter()
