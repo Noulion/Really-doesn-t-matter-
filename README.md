@@ -15,11 +15,11 @@ This repo is filled with smart stupidness.
 
 To run any of the scripts, clone the repository and execute the desired script using Python.
 
-bash
+```bash
 git clone https://github.com/Noulion/my_boring_python_proj.git
 cd my_boring_python_proj
-python <script_name>.py ```
-
+python <script_name>.py
+```
 
 ## Contributing
 
