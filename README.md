@@ -3,7 +3,7 @@ Here is the revised README.md file:
 ```markdown
 # My Boring Python Project
 
-This repository is a collection of Python scripts created for learning purposes. Each script explores different concepts and functionalities in Python.
+This repo is filled with smart stupidness.
 
 ## Project Structure
 
