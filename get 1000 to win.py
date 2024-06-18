@@ -12,7 +12,7 @@ def counter():
         print(f" Your number is {counter}\n")
     
         if counter == 1000:
-            print(colored(" You're lucky", 'green'))
+            print(colored(" You won", 'green'))
             break
 
 
