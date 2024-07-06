@@ -7,9 +7,9 @@ This repo is filled with smart stupidness.
 
 ## Project Structure
 
-- **get 1000 to win.py**: A script with an interactive game where the goal is to reach 1000 points.
-- **not sus python (this script crashes low RAM devices).py**: An addition calculator but the limit is 1000.
-- **python epic boredom.py**: A dollars to pesos rich indicator.
+- **get_1000_to_win.py**: A script with an interactive game where the goal is to reach 1000 points.
+- **limited_calculator.py**: An addition calculator but the limit is 1000.
+- **Money_exchange(PHP-USD).py**: A dollars to pesos rich indicator.
 
 ## Getting Started
 
